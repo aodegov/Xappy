@@ -37,7 +37,3 @@ We are live streaming much of our work, solo and collaborative. Start there and 
 * David - [twitch.tv/davidortinau](https://twitch.tv/davidortinau)
 
 As we establish a regular schedule, we'll share it.
-
-### Code Wanted Here
-
-We'll start pushing design updates and code here soon. Stay tuned.
